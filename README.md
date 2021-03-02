@@ -12,6 +12,7 @@ Deploy a simple access on a linux device
     Step 2. sudo apt upgrade
     Step 3. sudo apt install hostapd
     Step 4. sudo apt install dnsmasq
+    Step 5. sudo apt install g++
     
 ## Set hotspot values:
     Step 1: the user will need to provide values for some variables such as
