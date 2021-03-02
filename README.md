@@ -21,3 +21,7 @@ Deploy a simple access on a linux device
 ## Compile and execute the tool:
     Step 1. sudo g++ slh.cpp -o slh
     Step 2. sudo ./slh
+    
+## Termiante the tool:
+    Step 1. Ctrl + C
+
