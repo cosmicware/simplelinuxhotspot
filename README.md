@@ -1,5 +1,5 @@
 # simplelinuxhotspot
-Deploy a simple access on a linux device
+Deploy a simple access point on a linux device
 
 ## Hardware requirements:
     It is recommened the user has two network interfaces 
